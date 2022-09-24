@@ -460,17 +460,17 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: /img/home.jpg
+  banner_img: https://i.imgtg.com/2022/09/24/g0x6x.jpg
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
   # Available: 0 - 100
-  banner_img_height: 70
+  banner_img_height: 100
 
   # 头图黑色蒙版的不透明度，available: 0 - 1.0， 1 是完全不透明
   # Opacity of the banner mask, 1.0 is completely opaque
   # Available: 0 - 1.0
-  banner_mask_alpha: 0.3
+  banner_mask_alpha: 0
 
   # 首页副标题的独立设置
   # Independent config of home page subtitle
@@ -532,7 +532,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/default.png
+  banner_img: https://i.imgtg.com/2022/09/24/g0k4t.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
@@ -886,7 +886,7 @@ giscus:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/default.png
+  banner_img: https://i.imgtg.com/2022/09/24/g0Fbj.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -897,7 +897,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://i.imgtg.com/2022/09/24/g0hmp.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -926,7 +926,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://i.imgtg.com/2022/09/24/g0iYU.jpg
   banner_img_height: 80
   banner_mask_alpha: 0.3
   tagcloud:
@@ -943,7 +943,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: https://i.imgtg.com/2022/09/24/gQeBY.jpg
+  banner_img: https://i.imgtg.com/2022/09/24/g01qY.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   avatar: https://i.imgtg.com/2022/09/24/gQ1Jp.jpg

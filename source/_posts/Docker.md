@@ -6,25 +6,9 @@ banner_img: https://i.imgtg.com/2022/09/22/gytPX.jpg
 date: 2022-09-24 20:00:00
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-[TOC]
-
-
-
 # Docker
 
-docker的主要目标是"Build,Ship and Run any App,Angwhere",构建，运输，处处运行
+docker的主要目标是 ***Build,Ship and Run any App,Angwhere*** ***构建，运输，处处运行***
 
 **构建**：做一个docker镜像
 
