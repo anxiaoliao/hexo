@@ -1,6 +1,6 @@
 ---
 title: Nginx
-tags: [Ngiinx]
+tags: [学习,Ngiinx]
 date: 2022-09-24 10:00:00
 ---
 

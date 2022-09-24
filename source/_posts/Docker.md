@@ -1,7 +1,6 @@
 ---
 title: Docker教程
 tags: [学习，Docker]
-index_img: https://i.imgtg.com/2022/09/22/gytPX.jpg
 banner_img: https://i.imgtg.com/2022/09/22/gytPX.jpg
 date: 2022-09-24 20:00:00
 ---
