@@ -1,6 +1,7 @@
 ---
-title: Nginx
+title: Nginx入门
 tags: [学习,Ngiinx]
+banner_img: https://pluspng.com/img-png/nginx-logo-png-transparent-nginx-logo-hd-png-img-kindpng-860x1026.png
 date: 2022-09-24 10:00:00
 ---
 
