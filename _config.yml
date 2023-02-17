@@ -79,3 +79,11 @@ theme: fluid
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# Music
+aplayer:
+  meting: true
+  asset_inject: false
+
+
+
