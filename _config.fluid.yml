@@ -18,11 +18,11 @@
 
 # 用于浏览器标签的图标
 # Icon for browser tab
-favicon: /img/f.png
+favicon: https://cdn.jsdelivr.net/gh/anxiaoliao/kkndp/img/20236111686418003.webp
 
 # 用于苹果设备的图标
 # Icon for Apple touch
-apple_touch_icon: /img/favicon-16x16.png
+apple_touch_icon: https://cdn.jsdelivr.net/gh/anxiaoliao/kkndp/img/20236111686418003.webp
 
 # 浏览器标签页中的标题分隔符，效果： 文章名 - 站点名
 # Title separator in browser tab, eg: article - site
@@ -241,6 +241,13 @@ custom_js:
 custom_css:
   - /css/macpanel
   - //cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css   #/APlayer依赖
+  - /css/font.css #字体
+
+# 自定义 <head> 节点中的 HTML 内容
+# Customize <head> HTML content
+#思源宋体
+custom_head: '<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">'
+
 
 # 网页访问统计
 # Analysis of website visitors
