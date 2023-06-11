@@ -1,6 +1,6 @@
 ---
 title: 卸载apache2
-banner_img: https://i.imgtg.com/2023/02/02/0hQMg.png
+banner_img: https://i.imgtg.com/2023/06/11/OBytIq.jpg
 date: 2023-01-29 20:31:43
 tags: [学习]
 ---

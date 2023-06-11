@@ -20,14 +20,14 @@ layout: music
         {
           name: '东京不太热',
           artist: '封茗囧菌',
-          url: 'http://nnd.ipv6c.my.id/d/OD3/hls/%E4%B8%9C%E4%BA%AC%E4%B8%8D%E5%A4%AA%E7%83%AD.mp3',
+          url: 'https://kkp-terryming29.koyeb.app/d/OD3/hls/%E4%B8%9C%E4%BA%AC%E4%B8%8D%E5%A4%AA%E7%83%AD.mp3',
           cover: 'http://p1.music.126.net/MLXG0RCDpueah-aFiLUXLg==/109951168634454775.jpg',
           theme: '#ebd0c2'
         },
         {
           name: '幹物女(WeiWei)',
           artist: '封茗囧菌',
-          url: 'http://nnd.ipv6c.my.id/d/OD3/hls/%E5%B9%B9%E7%89%A9%E5%A5%B3(WeiWei).mp3',
+          url: 'https://kkp-terryming29.koyeb.app/d/OD3/hls/%E5%B9%B9%E7%89%A9%E5%A5%B3(WeiWei).mp3',
           cover: 'http://p1.music.126.net/yTWvgmSXFkC0rKJO2nJHhw==/109951168638546975.jpg',
           theme: '',
         }
