@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://blog.nanako.eu.org
 root: /
-permalink: :year/:month/:day/:title/
+permalink: posts/:abbrlink.html
 permalink_defaults:
 
 # Directory
@@ -85,5 +85,8 @@ aplayer:
   meting: true
   asset_inject: false
 
-
+# abbrlink config
+abbrlink:
+  alg: crc16  #support crc16(default) and crc32
+  rep: dec    #support dec(default) and hex
 

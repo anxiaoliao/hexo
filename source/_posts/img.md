@@ -1,6 +1,7 @@
 ---
 title: 图床测试
-banner_img: http://nnd.ipv6c.my.id/d/OD3/img/2023524.webp
+banner_img: 'http://nnd.ipv6c.my.id/d/OD3/img/2023524.webp'
+abbrlink: 62187
 date: 2023-02-19 02:10:48
 tags:
 ---

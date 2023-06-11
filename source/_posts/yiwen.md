@@ -1,6 +1,7 @@
 ---
 title: 与妻书
-banner_img: https://i.imgtg.com/2023/05/05/CApYM.jpg
+banner_img: 'https://i.imgtg.com/2023/05/05/CApYM.jpg'
+abbrlink: 51990
 date: 2023-06-11 01:37:57
 tags:
 ---

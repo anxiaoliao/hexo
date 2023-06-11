@@ -1,8 +1,10 @@
 ---
 title: 手动部署LNMP
-banner_img: https://i.imgtg.com/2022/12/16/H5TPD.png
+banner_img: 'https://i.imgtg.com/2022/12/16/H5TPD.png'
+tags:
+  - 学习
+abbrlink: 58389
 date: 2022-12-16 02:41:00
-tags: [学习]
 ---
 # 前言
 ## LNMP的概念 :

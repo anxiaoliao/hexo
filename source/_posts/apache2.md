@@ -1,8 +1,10 @@
 ---
 title: 卸载apache2
-banner_img: https://i.imgtg.com/2023/06/11/OBytIq.jpg
+banner_img: 'https://i.imgtg.com/2023/06/11/OBytIq.jpg'
+tags:
+  - 学习
+abbrlink: 20016
 date: 2023-01-29 20:31:43
-tags: [学习]
 ---
 
 # 终止apache运行
