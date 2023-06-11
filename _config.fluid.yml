@@ -225,7 +225,7 @@ color:
 # Font
 font:
   font_size: 16px
-  font_family:
+  font_family: LXGW WenKai Lite
   letter_spacing: 0.02em
   code_font_size: 85%
 
@@ -241,12 +241,12 @@ custom_js:
 custom_css:
   - /css/macpanel
   - //cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css   #/APlayer依赖
-  - /css/font.css #字体
+  - //cdn2.tianli0.top/gh/anxiaoliao/font_cdn/lxgwwenkailite-regular.css #字体
 
 # 自定义 <head> 节点中的 HTML 内容
 # Customize <head> HTML content
 #思源宋体
-custom_head: '<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">'
+#custom_head: '<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">'
 
 
 # 网页访问统计
