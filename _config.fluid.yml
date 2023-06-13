@@ -241,7 +241,7 @@ custom_js:
 custom_css:
   - /css/macpanel
   - //cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css   #/APlayer依赖
-  - //cdn2.tianli0.top/gh/anxiaoliao/font_cdn/lxgwwenkailite-regular.css #字体
+  - //gcore.jsdelivr.net/gh/anxiaoliao/font_cdn/lxgwwenkailite-regular.css #字体
 
 # 自定义 <head> 节点中的 HTML 内容
 # Customize <head> HTML content
