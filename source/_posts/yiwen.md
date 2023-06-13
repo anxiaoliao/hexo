@@ -25,3 +25,5 @@ tags:
 
 &emsp;&emsp;家中诸母皆通文，有不解处，望请其指教，当尽吾意为幸。
 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b4aac7a8-7d1f-450e-9973-6f8f20bad67d/deploy-status)](https://app.netlify.com/sites/yayami/deploys)
