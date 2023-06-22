@@ -27,3 +27,6 @@ tags:
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b4aac7a8-7d1f-450e-9973-6f8f20bad67d/deploy-status)](https://app.netlify.com/sites/yayami/deploys)
+
+
+{% meting "34218938" "netease" "song" "autoplay" "mutex:false" "listmaxheight:340px" "theme:#ad7a86"%}
